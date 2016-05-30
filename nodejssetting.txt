@@ -1,0 +1,15 @@
+#安装Node.JS
+npm init
+
+#安装模块
+npm install --save <模块名> <模块名> ..
+
+restify -> http
+mysql -> mysql
+moment -> time
+crypto -> 加密
+jwt-simple
+express -> http
+socket.io -> socket
+
+var mode=require('./mode');
